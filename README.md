@@ -1,1 +1,1 @@
-# weatherapp
+# weatherapp, get API from openweather.api
